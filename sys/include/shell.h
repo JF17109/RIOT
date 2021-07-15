@@ -21,10 +21,10 @@
 #define SHELL_H
 
 #include <stdint.h>
-#include "periph/pm.h"
+#include "../../drivers/include/periph/pm.h"
 
-#include "kernel_defines.h"
-#include "xfa.h"
+#include "../../core/include/kernel_defines.h"
+#include "../../core/include/xfa.h"
 
 #ifdef __cplusplus
 extern "C" {

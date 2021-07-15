@@ -24,7 +24,7 @@
 #ifndef PERIPH_PM_H
 #define PERIPH_PM_H
 
-#include "periph_cpu.h"
+#include "../../../cpu/esp8266/include/periph_cpu.h"
 
 #ifdef MODULE_PM_LAYERED
 #include "pm_layered.h"
